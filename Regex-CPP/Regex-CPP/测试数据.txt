@@ -1,0 +1,15 @@
+Particle swarm optimization,PSO, is an evolutionary computation technique inspired in the
+behavior of bird flocks. PSO algorithms were first introduced by Kennedy & Eberhart (1995)
+for optimizing continuous nonlinear functions. The fundamentals of this metaheuristic
+approach rely on researches where the movements of social creatures were simulated by
+computers (Reeves, 1983; Reynolds, 1987; Heppner & Grenander, 1990). The research in PSO
+algorithms has significantly grown in the last few years and a number of successful
+applications concerning single and multi-objective optimization have been presented
+(Kennedy& Eberhart, 2001; Coello et al., 2004). This popularity is partially due to the fact
+that in the canonical PSO algorithm only a small number of parameters have to be tuned 
+and also due to the easiness of implementation of the algorithms based on this technique.
+Motivated by the success of PSO algorithms with continuous problems, researchers that deal
+with discrete optimization problems have investigated ways to adapt the original proposal
+to the discrete case. In many of those researches, the new approaches are illustrated with the
+Traveling Salesman Problem, TSP, once it has been an important test ground for most
+algorithmic ideas.
